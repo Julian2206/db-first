@@ -1,0 +1,17 @@
+Nome tabella: Auto
+
+id - intero - MEDIUMINT - PRIMARY_KEY
+marca - stringa - VARCHAR(30)
+modello - stringa - VARCHAR(30)
+anno - data - DATE(	YYYY-MM-DD)
+carrozzaeria - VARCHAR(30)
+chilometri fatti - int - MEDIUMINT
+carburante - stringa - VARCHAR(30)
+colore - VARCHAR(30)
+potenza CV - int - SMALLINT
+cambio - stringa - VARCHAR(30)
+numero posti - int - TINYINT
+numero porte - int - TINYINT
+emissioni - stringa - VARCHAR(30)
+prezzo - float - FLOAT(14,2)
+casa - stringa - VARCHAR(50)
